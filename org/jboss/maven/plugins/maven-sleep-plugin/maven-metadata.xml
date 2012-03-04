@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jboss.maven.plugins</groupId>
+  <artifactId>maven-sleep-plugin</artifactId>
+  <versioning>
+    <latest>1.0</latest>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+  </versioning>
+</metadata>
